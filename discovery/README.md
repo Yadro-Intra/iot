@@ -22,3 +22,4 @@ Other things:
   - [Address Resolution Protocol](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
   - [Spanning Tree Protocol](https://en.wikipedia.org/wiki/Spanning_Tree_Protocol)
   - [Neighbor Discovery Protocol](https://en.wikipedia.org/wiki/Neighbor_Discovery_Protocol)
+  - [Raw socket programming in python (WOW!)](http://www.binarytides.com/raw-socket-programming-in-python-linux/)
